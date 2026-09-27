@@ -1,0 +1,11 @@
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+.git
+dataset
+expanded
+examples
+*.md
+*.zip
+judge_simulator.py
